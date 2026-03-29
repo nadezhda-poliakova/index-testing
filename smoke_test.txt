@@ -1,0 +1,3 @@
+# Smoke Test File
+Created by smoke testing the Write tool.
+✅ Edit tool: Smoke test OK — line successfully edited!

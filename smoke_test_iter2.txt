@@ -1,0 +1,4 @@
+# Smoke Test Iteration 2
+Created during second smoke test run.
+Testing Write tool functionality.
+✅ Edit tool iteration 2: Successfully edited this line!
