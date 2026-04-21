@@ -32,5 +32,5 @@ Update `{@artifacts_path}/plan.md` if it makes sense to have a plan and task has
 ## Plan
 
 ### [x] Step: Удалить `5.txt` и `6.txt`
-- `6.txt` удалён из репозитория.
-- `5.txt` в репозитории не найден (удалять нечего).
+- `6.txt` отсутствует в репозитории (удалять нечего).
+- `5.txt` удалён из репозитория.
