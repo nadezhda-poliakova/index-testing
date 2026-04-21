@@ -31,3 +31,7 @@ Update `{@artifacts_path}/plan.md` if it makes sense to have a plan and task has
 
 ### [x] Step: Создать пустой файл 5.txt в корне
 - Создан пустой файл `5.txt` в корне репозитория.
+
+### [x] Step: Опубликовать ветку и создать PR
+- Ветка `sozdai-fail-v-korne-copy-9399` отправлена в `origin`.
+- Создан PR в `main`: `https://github.com/nadezhda-poliakova/index-testing/pull/5`.
